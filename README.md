@@ -237,6 +237,30 @@ while True:
 
 > In Python sind Einrückungen wichtig. Sie zeigen, welche Befehle zusammengehören.
 
+### Entdeckerauftrag: Arbeite mit der Referenz
+
+Echte Entwicklerinnen und Entwickler müssen nicht alle Befehle auswendig kennen. Sie schlagen in einer Referenz nach, testen Beispiele und verändern sie Schritt für Schritt.
+
+1. Öffne im [MicroPython-Editor](https://python.microbit.org/) das Menü **Referenz** oder besuche die [MicroPython-Referenz für den micro:bit](https://microbit-micropython.readthedocs.io/en/v2-docs/).
+2. Suche dir ein Thema aus, zum Beispiel **Display**, **Tasten**, **Temperatur**, **Musik** oder **Bewegung**.
+3. Übernimm ein Beispiel in dein Programm.
+4. Verändere mindestens einen Wert oder Befehl.
+5. Überlege vor dem Start: Was erwartest du?
+6. Teste das Programm und vergleiche das Ergebnis mit deiner Vermutung.
+
+Du könntest beispielsweise die Temperatur anzeigen:
+
+```python
+from microbit import *
+
+wert = temperature()
+display.scroll(wert)
+```
+
+- [ ] Ich habe einen neuen Befehl in der Referenz gefunden.
+- [ ] Ich habe ein Beispiel verändert und getestet.
+- [ ] Ich kann erklären, was meine Änderung bewirkt.
+
 ## 11. Maqueen Lite V5
 
 Der Maqueen wird durch den micro:bit zu einem fahrenden Roboter. Er besitzt unter anderem:
