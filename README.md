@@ -290,6 +290,16 @@ Wenn etwas nicht funktioniert, prüfe der Reihe nach:
 - [ ] Liegen Sensorwerte im erwarteten Bereich?
 - [ ] Sind Bedingungen und Schleifen richtig aufgebaut?
 
+## Weitere Missionen
+
+Wenn du nach den Aufgaben mit dem micro:bit noch weiterarbeiten möchtest, wartet ein echtes Reparaturprojekt auf dich:
+
+### Mission 2: Die Diskokugel reparieren
+
+Untersuche eine defekte Diskokugel, bestimme Widerstände mit Farbcodes und Multimeter und löte eine neue LED ein.
+
+➡️ [Mission 2 starten: Die Diskokugel reparieren](./DISKOKUGEL_REPARATUR.md)
+
 ## Mein Entwickler-Tagebuch
 
 ### Das hat heute gut funktioniert

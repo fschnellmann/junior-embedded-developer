@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="600" viewBox="0 0 1000 600" role="img" aria-labelledby="title desc">
+  <title id="title">Farbringe der Widerstände</title>
+  <desc id="desc">150 Ohm für Rot sowie 82 Ohm für Grün und Blau mit gut lesbaren Farbringen.</desc>
+  <rect width="1000" height="600" rx="28" fill="#f7f9fc"/>
+  <text x="50" y="58" font-family="Arial, sans-serif" font-size="30" font-weight="700" fill="#172033">Widerstände richtig erkennen</text>
+  <text x="50" y="92" font-family="Arial, sans-serif" font-size="18" fill="#526079">Von links nach rechts lesen. Gold bedeutet ±5 % Toleranz.</text>
+  <g id="red" transform="translate(0 120)">
+    <rect x="45" width="910" height="130" rx="20" fill="#fff" stroke="#dce3ed" stroke-width="2"/>
+    <circle cx="90" cy="45" r="23" fill="#ef4c4f"/><text x="128" y="39" font-family="Arial" font-size="23" font-weight="700" fill="#172033">Rot</text><text x="128" y="72" font-family="Arial" font-size="21" fill="#526079">150 Ω</text>
+    <line x1="250" y1="58" x2="335" y2="58" stroke="#657080" stroke-width="7"/><rect x="320" y="22" width="300" height="72" rx="30" fill="#e2c693" stroke="#9b7842" stroke-width="3"/><line x1="605" y1="58" x2="675" y2="58" stroke="#657080" stroke-width="7"/>
+    <rect x="365" y="22" width="22" height="72" fill="#754328"/><rect x="425" y="22" width="22" height="72" fill="#198754"/><rect x="485" y="22" width="22" height="72" fill="#754328"/><rect x="560" y="22" width="24" height="72" fill="#d4a72c" stroke="#80600f"/>
+    <text x="695" y="48" font-family="Arial" font-size="17" font-weight="700" fill="#172033">Braun · Grün · Braun · Gold</text><text x="695" y="77" font-family="Arial" font-size="18" fill="#526079">15 × 10 = 150 Ω</text>
+  </g>
+  <g id="green" transform="translate(0 270)">
+    <rect x="45" width="910" height="130" rx="20" fill="#fff" stroke="#dce3ed" stroke-width="2"/>
+    <circle cx="90" cy="45" r="23" fill="#28b878"/><text x="128" y="39" font-family="Arial" font-size="23" font-weight="700" fill="#172033">Grün</text><text x="128" y="72" font-family="Arial" font-size="21" fill="#526079">82 Ω</text>
+    <line x1="250" y1="58" x2="335" y2="58" stroke="#657080" stroke-width="7"/><rect x="320" y="22" width="300" height="72" rx="30" fill="#e2c693" stroke="#9b7842" stroke-width="3"/><line x1="605" y1="58" x2="675" y2="58" stroke="#657080" stroke-width="7"/>
+    <rect x="365" y="22" width="22" height="72" fill="#737b86"/><rect x="425" y="22" width="22" height="72" fill="#d53232"/><rect x="485" y="22" width="22" height="72" fill="#171a1f"/><rect x="560" y="22" width="24" height="72" fill="#d4a72c" stroke="#80600f"/>
+    <text x="695" y="48" font-family="Arial" font-size="17" font-weight="700" fill="#172033">Grau · Rot · Schwarz · Gold</text><text x="695" y="77" font-family="Arial" font-size="18" fill="#526079">82 × 1 = 82 Ω</text>
+  </g>
+  <g id="blue" transform="translate(0 420)">
+    <rect x="45" width="910" height="130" rx="20" fill="#fff" stroke="#dce3ed" stroke-width="2"/>
+    <circle cx="90" cy="45" r="23" fill="#3a7ee8"/><text x="128" y="39" font-family="Arial" font-size="23" font-weight="700" fill="#172033">Blau</text><text x="128" y="72" font-family="Arial" font-size="21" fill="#526079">82 Ω</text>
+    <line x1="250" y1="58" x2="335" y2="58" stroke="#657080" stroke-width="7"/><rect x="320" y="22" width="300" height="72" rx="30" fill="#e2c693" stroke="#9b7842" stroke-width="3"/><line x1="605" y1="58" x2="675" y2="58" stroke="#657080" stroke-width="7"/>
+    <rect x="365" y="22" width="22" height="72" fill="#737b86"/><rect x="425" y="22" width="22" height="72" fill="#d53232"/><rect x="485" y="22" width="22" height="72" fill="#171a1f"/><rect x="560" y="22" width="24" height="72" fill="#d4a72c" stroke="#80600f"/>
+    <text x="695" y="48" font-family="Arial" font-size="17" font-weight="700" fill="#172033">Grau · Rot · Schwarz · Gold</text><text x="695" y="77" font-family="Arial" font-size="18" fill="#526079">82 × 1 = 82 Ω</text>
+  </g>
+</svg>
