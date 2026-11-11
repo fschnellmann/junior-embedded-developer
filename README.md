@@ -237,16 +237,15 @@ while True:
 
 > In Python sind Einrückungen wichtig. Sie zeigen, welche Befehle zusammengehören.
 
-### Entdeckerauftrag: Arbeite mit der Referenz
+### Entdeckerauftrag: Erkunden und ausprobieren
 
-Echte Entwicklerinnen und Entwickler müssen nicht alle Befehle auswendig kennen. Sie schlagen in einer Referenz nach, testen Beispiele und verändern sie Schritt für Schritt.
+Echte Entwicklerinnen und Entwickler müssen nicht alle Befehle auswendig kennen. Sie erkunden die Referenz, probieren Beispiele aus und verändern sie Schritt für Schritt.
 
 1. Öffne im [MicroPython-Editor](https://python.microbit.org/) das Menü **Referenz** oder besuche die [MicroPython-Referenz für den micro:bit](https://microbit-micropython.readthedocs.io/en/v2-docs/).
 2. Suche dir ein Thema aus, zum Beispiel **Display**, **Tasten**, **Temperatur**, **Musik** oder **Bewegung**.
-3. Übernimm ein Beispiel in dein Programm.
-4. Verändere mindestens einen Wert oder Befehl.
-5. Überlege vor dem Start: Was erwartest du?
-6. Teste das Programm und vergleiche das Ergebnis mit deiner Vermutung.
+3. Übernimm ein Beispiel in dein Programm und teste es.
+4. Verändere Werte oder Befehle und beobachte, was passiert.
+5. Probiere danach noch ein zweites Beispiel aus.
 
 Du könntest beispielsweise die Temperatur anzeigen:
 
@@ -258,8 +257,8 @@ display.scroll(wert)
 ```
 
 - [ ] Ich habe einen neuen Befehl in der Referenz gefunden.
-- [ ] Ich habe ein Beispiel verändert und getestet.
-- [ ] Ich kann erklären, was meine Änderung bewirkt.
+- [ ] Ich habe mehrere Beispiele ausprobiert.
+- [ ] Ich habe Werte oder Befehle verändert.
 
 ## 11. Maqueen Lite V5
 
